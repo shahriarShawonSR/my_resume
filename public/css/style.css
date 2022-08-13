@@ -1,0 +1,38 @@
+.img-fluid {
+    max-height: 200px;
+    max-width: 180px;
+}
+.st-font{
+    font-family: "Times New Roman", "Times, serif";
+}
+html,
+body{
+    height: 100%;
+}
+.container-fluid{
+    min-height: 100%;
+}
+/* Service Icon color */
+.i-color{
+    color: chartreuse;
+}
+/* Service Subtitle color */
+.ss-color{
+    color: silver;
+    font-family: "Times New Roman", "Times, serif";
+}
+a.nav-link{
+    color: whitesmoke;
+}
+a.nav-link:hover{
+    color: black;
+    background-color: #e9cd79;
+}
+a.nav-link.active{
+    color: black;
+    background-color: #ffc107;
+    font-weight: bold;
+}
+.button{
+    float:left;
+    }
